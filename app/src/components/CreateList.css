@@ -1,0 +1,13 @@
+.player {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .setter {
+    background-color: #ffeeba; /* Cor de fundo para jogadores levantadores */
+  }
+  
+  .female {
+    color: #ff69b4; /* Cor de texto para jogadoras mulheres */
+  }
+  
